@@ -3,10 +3,10 @@ hide:
   - navigation
   - toc
 ---
-
-<div class="hero" markdown>
-
-<div class="hero__eyebrow">KOREA UNIVERSITY ISOGENY CLUB</div>
+<h1 hidden>Home</h1>
+<!-- <div class="hero" markdown>
+</div> -->
+<!-- <div class="hero__eyebrow">KOREA UNIVERSITY ISOGENY CLUB</div>
 
 # Exploring the geometry behind secure computation
 
@@ -15,9 +15,9 @@ An open collection of definitions, theorems, and proofs about elliptic curves an
 [Browse definitions](definitions/index.md){ .md-button .md-button--primary }
 [Browse theorems](theorems/index.md){ .md-button }
 
-</div>
+</div> -->
 
-## Visualization of a supersingular isogeny graph
+<!-- ## Visualization of a supersingular isogeny graph -->
 
 <div class="graph-frame">
   <iframe src="assets/graphs/1619_3_graph.html" title="Interactive 1619 3-isogeny graph" loading="lazy"></iframe>
