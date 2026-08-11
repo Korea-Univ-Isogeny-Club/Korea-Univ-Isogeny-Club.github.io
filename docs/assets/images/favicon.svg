@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>KUIC elliptic curve torus</title>
+  <rect width="64" height="64" rx="14" fill="#7a142c"/>
+  <defs>
+    <linearGradient id="f" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#fff"/><stop offset=".55" stop-color="#d8bdc4"/><stop offset="1" stop-color="#e5c676"/>
+    </linearGradient>
+  </defs>
+  <g transform="rotate(-7 32 32)" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="url(#f)" fill-rule="evenodd" d="M59 32c0 11-12.1 18.5-27 18.5S5 43 5 32s12.1-18.5 27-18.5S59 21 59 32Zm-16 0c0-3.6-4.9-6.2-11-6.2S21 28.4 21 32s4.9 6.2 11 6.2S43 35.6 43 32Z"/>
+    <path fill="#7a142c" stroke="#fff" stroke-width="1.8" d="M43 32c0 3.6-4.9 6.2-11 6.2S21 35.6 21 32s4.9-6.2 11-6.2S43 28.4 43 32Z"/>
+    <path fill="none" stroke="#e5c676" stroke-width="1.8" d="M22 29.5c2 1.8 5.7 3 10 3s8-1.2 10-3"/>
+    <path fill="none" stroke="#fff" stroke-width="1.3" opacity=".7" d="M6.5 29.5c6.4 7.5 14.7 10.7 25.5 10.7s19.1-3.2 25.5-10.7"/>
+  </g>
+</svg>

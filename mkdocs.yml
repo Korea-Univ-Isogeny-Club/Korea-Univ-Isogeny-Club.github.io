@@ -1,0 +1,87 @@
+site_name: Korea University Isogeny Club
+site_description: Isogeny theory, elliptic curves, and post-quantum cryptography
+site_url: https://korea-univ-isogeny-club.github.io/
+repo_url: https://github.com/Korea-Univ-Isogeny-Club/Korea-Univ-Isogeny-Club.github.io
+repo_name: Korea-Univ-Isogeny-Club
+
+theme:
+  name: material
+  language: en
+  custom_dir: overrides
+  favicon: assets/images/favicon.svg
+  logo: assets/images/logo.svg
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tooltips
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: kuic
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Noto Sans
+    code: JetBrains Mono
+
+nav:
+  - Home: index.md
+  - Definitions:
+      - definitions/index.md
+      - Elliptic Curve: definitions/elliptic_curve.md
+      - Isogeny: definitions/isogeny.md
+      - Isogeny Graph: definitions/isogeny_graph.md
+  - Theorems:
+      - theorems/index.md
+      - Isogenies Preserve the Group Law: theorems/isogeny_homomorphism.md
+      - Degree and Kernel: theorems/degree_and_kernel.md
+      - Riemann–Roch Theorem: theorems/riemann_roch.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+plugins:
+  - search
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Korea-Univ-Isogeny-Club
+      name: KUIC on GitHub
+
+copyright: Copyright &copy; Korea University Isogeny Club
