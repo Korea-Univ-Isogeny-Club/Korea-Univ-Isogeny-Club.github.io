@@ -22,7 +22,7 @@
 <body>
   
     <div id="3d-graph"></div>
-    <button id="filter-button" type="button">Show nodes without i</button>
+    <button id="filter-button" type="button">Show Fp nodes</button>
   
     <script type="module">
       import * as THREE from 'https://esm.sh/three';
@@ -105,7 +105,7 @@
         Graph.graphData(copyGraphData(data));
         filterButton.textContent = showingFilteredGraph
           ? 'Show all nodes'
-          : 'Show nodes without i';
+          : 'Show Fp nodes';
       });
 
         // .nodeThreeObject(node => {
