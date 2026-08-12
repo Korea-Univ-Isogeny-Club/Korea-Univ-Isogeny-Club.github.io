@@ -79,3 +79,6 @@
     $$
 
     This gives the desired inequality, provided that $\psi \neq 0$, while for $\psi = 0$ the original inequality is trivial.
+
+## Reference
++ Joseph H. Silverman, The Arithmetic of Elliptic Curves
