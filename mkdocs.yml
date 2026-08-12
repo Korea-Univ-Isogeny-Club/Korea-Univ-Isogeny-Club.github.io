@@ -41,6 +41,8 @@ nav:
   - Home: index.md
   - Definitions:
       - definitions/index.md
+      - Isomorphism: definitions/isomorphism.md
+      - Endomorphism: definitions/endomorphism.md
       - Trace of Frobenius: definitions/trace_of_frobenius.md
       - Elliptic Curve: definitions/elliptic_curve.md
       - Isogeny: definitions/isogeny.md

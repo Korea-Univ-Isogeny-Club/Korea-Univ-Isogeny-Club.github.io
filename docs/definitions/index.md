@@ -9,6 +9,8 @@ This section collects the definitions and notation used throughout the site. Eac
 
 ## Isogeny theory
 
+- [Isomorphism](isomorphism.md)
+- [Endomorphism](endomorphism.md)
 - [Isogeny](isogeny.md)
 - [Isogeny graph](isogeny_graph.md)
 

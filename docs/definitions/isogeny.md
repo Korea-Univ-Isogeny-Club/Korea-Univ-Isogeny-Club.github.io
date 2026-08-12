@@ -1,14 +1,15 @@
 # Isogeny
 
-!!! definition "Definition (Isogeny)"
+!!! definition "Definition (Isogeny over $K$)"
 
-    Let \(E_1\) and \(E_2\) be elliptic curves over a field \(K\). An **isogeny** is a non-constant morphism
+    Let $K$ be an extension of $K'$.
+    Let \(E_1\) and \(E_2\) be elliptic curves over a field \(K'\). An **isogeny** over $K$ is a non-constant morphism
 
     \[
     \phi:E_1\longrightarrow E_2
     \]
 
-    satisfying \(\phi(\mathcal O_{E_1})=\mathcal O_{E_2}\).
+    satisfying \(\phi(\mathcal O_{E_1})=\mathcal O_{E_2}\), and represented as a rational map over $K$.
 
 ## Degree
 
