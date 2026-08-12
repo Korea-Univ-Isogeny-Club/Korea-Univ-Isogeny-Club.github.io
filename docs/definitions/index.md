@@ -5,6 +5,7 @@ This section collects the definitions and notation used throughout the site. Eac
 ## Algebraic geometry
 
 - [Elliptic curve](elliptic_curve.md)
+- [j-invariant](j_invariant.md)
 - [Trace of Frobenius](trace_of_frobenius.md)
 
 ## Isogeny theory
