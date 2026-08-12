@@ -3,7 +3,7 @@
 This section collects theorems, lemmas, propositions, and their proofs. Each result has its own article.
 
 ## Algebraic geometry
-
+- [Hasse's theorem](hasse_theorem.md)
 - [Riemann–Roch theorem](riemann_roch.md)
 
 ## Isogeny theory

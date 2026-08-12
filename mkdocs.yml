@@ -46,6 +46,7 @@ nav:
       - Isogeny Graph: definitions/isogeny_graph.md
   - Theorems:
       - theorems/index.md
+      - Hasse's theorem: theorems/hasse_theorem.md
       - Isogenies Preserve the Group Law: theorems/isogeny_homomorphism.md
       - Degree and Kernel: theorems/degree_and_kernel.md
       - Riemann–Roch Theorem: theorems/riemann_roch.md
