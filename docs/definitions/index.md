@@ -5,8 +5,10 @@ This section collects the definitions and notation used throughout the site. Eac
 ## Algebraic geometry
 
 - [Elliptic curve](elliptic_curve.md)
+- [Invariant Differential](invariant_differential.md)
 - [j-invariant](j_invariant.md)
 - [Trace of Frobenius](trace_of_frobenius.md)
+- [Tate Module](tate_module.md)
 
 ## Isogeny theory
 

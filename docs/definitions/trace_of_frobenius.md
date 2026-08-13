@@ -10,7 +10,7 @@
 
     is called the **trace of Frobenius**.
 
-    It is equal to the trace of the $q$-th power Frobenius map as a linear transformation of $T_\ell(E)$, where $T_\ell(E)$ is the Tate module for some prime $\ell$ different from $q$. 
+    It is equal to the trace of the $q$-th power Frobenius map as a linear transformation of $T_\ell(E)$, where $T_\ell(E)$ is the [Tate module](../definitions/tate_module.md) for some prime $\ell$ different from $q$. 
 
     $$
         \mathrm{tr}(\phi_\ell) = 1 + \deg(\phi) - \deg(1-\phi) = 1 + q - \# E(\mathbb{F}_q) = a.

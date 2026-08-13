@@ -41,15 +41,18 @@ nav:
   - Home: index.md
   - Definitions:
       - definitions/index.md
+      - Invariant Differential: definitions/invariant_differential.md
       - j-invariant: definitions/j_invariant.md
       - Isomorphism: definitions/isomorphism.md
       - Endomorphism: definitions/endomorphism.md
       - Trace of Frobenius: definitions/trace_of_frobenius.md
       - Elliptic Curve: definitions/elliptic_curve.md
+      - Tate Module: definitions/tate_module.md
       - Isogeny: definitions/isogeny.md
       - Isogeny Graph: definitions/isogeny_graph.md
   - Theorems:
       - theorems/index.md
+      - Torsion group structure: theorems/torsion_group_structure.md
       - Hasse's theorem: theorems/hasse_theorem.md
       - Isogenies Preserve the Group Law: theorems/isogeny_homomorphism.md
       - Degree and Kernel: theorems/degree_and_kernel.md
