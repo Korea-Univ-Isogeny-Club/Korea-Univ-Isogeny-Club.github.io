@@ -4,6 +4,8 @@ This section collects the definitions and notation used throughout the site. Eac
 
 ## Algebraic geometry
 
+- [Rational map](rational_map.md)
+- [Morphism](morphism.md)
 - [Elliptic curve](elliptic_curve.md)
 - [Invariant Differential](invariant_differential.md)
 - [j-invariant](j_invariant.md)

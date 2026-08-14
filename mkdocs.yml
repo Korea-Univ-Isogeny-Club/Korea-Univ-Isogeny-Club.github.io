@@ -41,6 +41,8 @@ nav:
   - Home: index.md
   - Definitions:
       - definitions/index.md
+      - Morphism: definitions/morphism.md
+      - Rational map: definitions/rational_map.md
       - Invariant Differential: definitions/invariant_differential.md
       - j-invariant: definitions/j_invariant.md
       - Isomorphism: definitions/isomorphism.md
@@ -52,6 +54,7 @@ nav:
       - Isogeny Graph: definitions/isogeny_graph.md
   - Theorems:
       - theorems/index.md
+      - Field Extension of Morphism: theorems/field_extension_of_morphism.md
       - Torsion group structure: theorems/torsion_group_structure.md
       - Hasse's theorem: theorems/hasse_theorem.md
       - Isogenies Preserve the Group Law: theorems/isogeny_homomorphism.md

@@ -11,6 +11,10 @@
   --md-code-bg-color: #f3eee8;
 }
 
+[data-md-color-scheme="slate"] {
+  --md-typeset-a-color: #e06b85;
+}
+
 .md-header, .md-tabs { background: #641126; }
 .md-announce { background: #2d1f24; }
 
