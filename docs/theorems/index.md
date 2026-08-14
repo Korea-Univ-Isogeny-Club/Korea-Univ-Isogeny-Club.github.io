@@ -10,6 +10,7 @@ This section collects theorems, lemmas, propositions, and their proofs. Each res
 
 ## Isogeny theory
 
+- [Kanni's lemma](kanni_lemma.md)
 - [Isogenies preserve the group law](isogeny_homomorphism.md)
 - [Degree and kernel](degree_and_kernel.md)
 

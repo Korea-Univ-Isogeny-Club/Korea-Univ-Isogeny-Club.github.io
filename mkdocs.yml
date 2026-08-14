@@ -55,6 +55,7 @@ nav:
       - Isogeny Graph: definitions/isogeny_graph.md
   - Theorems:
       - theorems/index.md
+      - Kanni's Lemma: theorems/kanni_lemma.md
       - Field Extension of Morphism: theorems/field_extension_of_morphism.md
       - Torsion group structure: theorems/torsion_group_structure.md
       - Hasse's theorem: theorems/hasse_theorem.md
