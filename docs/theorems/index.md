@@ -7,6 +7,7 @@ This section collects theorems, lemmas, propositions, and their proofs. Each res
 - [Riemann–Roch theorem](riemann_roch.md)
 - [$E[m] = \mathbb{Z}/m\mathbb{Z} \times \mathbb{Z}/m\mathbb{Z}$](torsion_group_structure.md)
 - [$K(C_1)$ is a finite extension of $\phi^*(K(C_2))$](field_extension_of_morphism.md)
+- [Determining whether an elliptic curve is supersingular](determine_supersingular.md)
 
 ## Isogeny theory
 
