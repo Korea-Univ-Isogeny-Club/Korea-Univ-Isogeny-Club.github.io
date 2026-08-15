@@ -4,6 +4,7 @@ This section collects the definitions and notation used throughout the site. Eac
 
 ## Algebraic geometry
 
+- [Supersingular](supersingular.md)
 - [Modular Polynomial](modular_polynomial.md)
 - [Rational map](rational_map.md)
 - [Morphism](morphism.md)
