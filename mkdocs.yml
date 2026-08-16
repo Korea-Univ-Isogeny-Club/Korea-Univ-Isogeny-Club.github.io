@@ -41,6 +41,7 @@ nav:
   - Home: index.md
   - Definitions:
       - definitions/index.md
+      - Frobenius map: definitions/frobenius_map.md
       - Supersingular: definitions/supersingular.md
       - Modular Polynomial: definitions/modular_polynomial.md
       - Morphism: definitions/morphism.md
@@ -56,6 +57,7 @@ nav:
       - Isogeny Graph: definitions/isogeny_graph.md
   - Theorems:
       - theorems/index.md
+      - Endring over Fp of supersingular curve: theorems/endring_over_fp.md
       - Determining whether an elliptic curve is supersingular: theorems/determine_supersingular.md
       - Kanni's Lemma: theorems/kanni_lemma.md
       - Field Extension of Morphism: theorems/field_extension_of_morphism.md
