@@ -41,6 +41,7 @@ nav:
   - Home: index.md
   - Definitions:
       - definitions/index.md
+      - Sheaves: definitions/sheaves.md
       - Frobenius map: definitions/frobenius_map.md
       - Supersingular: definitions/supersingular.md
       - Modular Polynomial: definitions/modular_polynomial.md
