@@ -31,4 +31,4 @@
     then there is an element $s \in \mathcal{F}(U)$ such that $s|_{V_i} = s_i$ for each $i$.
 
 # References
-+ Hartshorn, "Algebraic Geometry", II, p.61
++ Robin Hartshorne, "Algebraic Geometry", II, p.61
